@@ -1,0 +1,5 @@
+
+class HelloWorld:
+    print("Hello World")
+
+HelloWorld()
