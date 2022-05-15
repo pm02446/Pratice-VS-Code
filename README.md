@@ -1,2 +1,2 @@
 # Pratice-VS-Code
-just to practice code writing 
+first attempt at creating an application with Python
